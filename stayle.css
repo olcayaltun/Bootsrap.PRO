@@ -1,0 +1,80 @@
+.navbar a {
+    color: antiquewhite;
+}
+#ata {
+    color: antiquewhite;
+}
+
+#mn{
+    color: antiquewhite;
+    
+}
+.navbar-toggler{
+    color: antiquewhite;
+}
+.navbar-toggler-icon {
+    color: white; /* Beyaz renk */
+  }
+  .resimSlider{
+    height: 600px;
+
+  }
+  body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+  }
+  .hakkimizda{
+    background-color: #f2f2f2;
+  }
+  .ayrac{
+    border: none;
+    border-top: 3px solid #343a43;
+    max-width: 250px;
+    margin: 25px auto;
+  }
+  .ibeyaz{
+    color: #343a43;
+    position: relative;
+    border: 5px solid #f2f2f2;
+    background-color: #f2f2f2;
+  bottom:  40px;
+  }
+  .igri{
+    color: #343a43;
+    position: relative;
+    border: 5px solid #FFFFFF;
+    background-color: #FFFFFF;
+  bottom:  40px;
+
+  }
+ .resim{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 40px;
+    margin-top: 20px;
+    margin-right: 100px;
+ }
+ .boyut{
+    height: 250px;
+    width: 200px;
+ }
+ .boyut:hover{
+    opacity: 0.8;
+ }
+ .ana{
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
+   gap: 50px;
+   align-items: center;
+ margin-right: 70px;
+   
+ }
+ .xvc{
+    background-color: #F2F2F2;
+ }
+ .lbl{
+    margin: 5px;
+    width: 450px;
+ }
+ 
